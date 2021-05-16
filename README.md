@@ -5,9 +5,9 @@
 # V1.0 - 140521 - Sarah Eaglesfield
 
 #    ****     USAGE  ****
-#1. Extract the Data from NHS Postcode Download above
-#2. Modify script to suit your needs ensuring paths and lookup tables are correct
-#3. Run - it will produce a CSV of the output in the output folder
+#1. Extract the Data from NHS Postcode Download above /m
+#2. Modify script to suit your needs ensuring paths and lookup tables are correct  /m
+#3. Run - it will produce a CSV of the output in the output folder  /m
 
 #   ****     INSTRUCTIONS  ****
 #There are 41 columns of data in the dataset. These are detailed on P27-P40 the User Guide PDF. 
