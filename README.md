@@ -2,7 +2,7 @@
 # Extract Postcode Information from NHSPD dataset (on GOV UK)
 # Download location Office for National Statistics data - NHS Digital
 # https://digital.nhs.uk/services/organisation-data-service/data-downloads/office-for-national-statistics-data
-# V1.0 - 140521 - Sarah Eaglesfield
+V1.0 - 140521 - Sarah Eaglesfield
 
 #    ****     USAGE  ****
 #1. Extract the Data from NHS Postcode Download above <br>
